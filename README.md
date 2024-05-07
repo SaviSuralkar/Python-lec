@@ -1,4 +1,4 @@
 # Python-lec
 Full python question
 <br>
-Different type of question
+Different type of question for python
